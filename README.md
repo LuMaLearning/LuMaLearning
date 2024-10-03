@@ -4,7 +4,7 @@
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
 [![Ruby gem](https://img.shields.io/gem/v/jekyll-theme-so-simple.svg?style=flat-square)](https://rubygems.org/gems/jekyll-theme-so-simple)
 
-*Built with ❤️ using *[*So Simple*](https://github.com/mmistakes/so-simple-theme)*, a brilliant* [*Jekyll theme*](https://jekyllrb.com/docs/themes/) *under MIT license*
+*Built using *[*So Simple*](https://github.com/mmistakes/so-simple-theme)*, a brilliant* [*Jekyll theme*](https://jekyllrb.com/docs/themes/) *under MIT license*
 
 ## Welcome to my site! 
 
