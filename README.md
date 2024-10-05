@@ -10,9 +10,7 @@
 
 Here is the centralized hub for Luxman's background and journey as an aspiring Statistician / Data Scientist. Feel free to take a look anywhere and connect with me! ([Email](mailto:lm520@duke.edu) | [LinkedIn](https://www.linkedin.com/in/luxman-m/) | [GitHub](https://github.com/LuMaLearning))
 
-## Site Navigation
 
-Here is a quick overview of the site's structure: 
 
 <!--
 [**🔗HOME**](https://hollyyfc.github.io/): This is the landing page when you hit the link. You can find a brief introduction, my education, experience highlights, and a visualized skillset wordcloud featured here. You can always come back to this page by hitting my profile pic! 
